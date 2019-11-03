@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stm32f4xx_hal.h": "c",
+        "stm32f4xx_hal_conf.h": "c",
+        "stm32f4xx_hal_wwdg.h": "c",
+        "stm32f4xx_hal_dac.h": "c",
+        "stm32f4xx_hal_eth.h": "c",
+        "stm32f4xx_hal_flash.h": "c",
+        "stm32f4xx_hal_i2s.h": "c",
+        "stm32f4xx_hal_i2c.h": "c"
+    }
+}
